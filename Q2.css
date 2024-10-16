@@ -1,0 +1,10 @@
+.CONTAINER1 {
+background-color: #72A0C1;
+}
+
+
+body {
+	background-image: url(https://i.pinimg.com/736x/cd/a3/89/cda389303035516ef82bc5b8d6a7cd42.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
